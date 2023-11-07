@@ -2,7 +2,6 @@ import tkinter as tk
 from sympy import *
 from tkinter import ttk
 
-
 def open_limit_window():
     limit_window = tk.Toplevel(app)
     limit_window.title("Tính Giới Hạn")
