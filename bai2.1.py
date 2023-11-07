@@ -1,3 +1,4 @@
+
 import tkinter as tk
 from sympy import symbols, diff, integrate, solve, sympify
 import numpy as np
